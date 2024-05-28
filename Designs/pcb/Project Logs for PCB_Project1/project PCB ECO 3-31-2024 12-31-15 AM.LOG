@@ -1,0 +1,20 @@
+Added Component: Designator=P1(HDR_5x2_1.27 FEMALE)
+Added Component: Designator=U1(Z03A)
+Added Component: Designator=U2(so-16)
+Added Component: Designator=U3(BUZZ_23mm)
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U3-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U1-2
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U2-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Pin To Net: NetName=NetU2_16 Pin=U3-2
+Added Net: Name=NetU2_16
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=OUT4 Pin=ZD0-12
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L0 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R0 Old Description=Cam New Description=Cam
+Added Pin To Net: NetName=OUT5 Pin=ZD0-12
+Added Net: Name=OUT5

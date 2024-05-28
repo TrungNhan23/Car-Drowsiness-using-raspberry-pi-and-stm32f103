@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetH?_1 Pin=H?-1
+Removed Pin From Net: NetName=NetH?_2 Pin=H?-2
+Removed Pin From Net: NetName=NetH?_2 Pin=U1-2
+Removed Pin From Net: NetName=NetH?_1 Pin=U2-1
+Removed Member From Class: ClassName=Sheet1 Member=H?
+Added Component: Designator=JP?(JP 1x20 CT)
+Added Pin To Net: NetName=NetH?_2 Pin=JP?-1
+Added Pin To Net: NetName=NetH?_1 Pin=JP?-2
+Added Pin To Net: NetName=NetH?_1 Pin=U1-2
+Added Pin To Net: NetName=NetH?_2 Pin=U2-1
+Change Net Name : Old Net Name=NetH?_1 New Net Name=NetJP?_2
+Change Net Name : Old Net Name=NetH?_2 New Net Name=NetJP?_1
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 1x20 2.54

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Member From Class: ClassName=Sheet1 Member=JP?
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ULN2003A New DesignItemId=LM35DZ
+Change Component Footprint: Designator=U2 Old Footprint=so-16 New Footprint=Z03A
+Change Component Comment : Designator=U2 Old Comment=ULN2003A New Comment=LM35DZ
+Added Component: Designator=C?(tu hoa 4mm)
+Added Component: Designator=JP1(JP 1x20 CT)
+Added Component: Designator=JP2(JP 1x20 CT)
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=JP1-18
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=LM35_D Pin=JP2-8
+Added Pin To Net: NetName=LM35_D Pin=U2-2
+Added Net: Name=LM35_D
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x20 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 JP 1x20 2.54

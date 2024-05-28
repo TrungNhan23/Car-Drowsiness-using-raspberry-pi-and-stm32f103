@@ -1,0 +1,30 @@
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L0 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R0 Old Description=Cam New Description=Cam
+Added Component: Designator=JP2(JP 1x2 CT)
+Added Component: Designator=L2(LED-3MM-YELLOW)
+Added Component: Designator=L3(LED-3MM-YELLOW)
+Added Component: Designator=L4(LED-3MM-YELLOW)
+Added Component: Designator=L5(LED-3MM-YELLOW)
+Added Pin To Net: NetName=TX Pin=JP2-1
+Added Pin To Net: NetName=RX Pin=JP2-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=OUT5 Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=OUT2 Pin=L3-2
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=OUT3 Pin=L4-2
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=OUT4 Pin=L5-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 JP 1x2 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component L2 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L3 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L4 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L5 LED 3mm

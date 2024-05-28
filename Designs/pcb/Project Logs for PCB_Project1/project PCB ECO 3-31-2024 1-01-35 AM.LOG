@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Change Component Description : Designator=U3 Old Description=Loa g?m 23mm - pitch 10mm New Description=Loa g?m 23mm - pitch 10mm
+Added Component: Designator=H?(XH2.54M-10)
+Added Pin To Net: NetName=NetH?_1 Pin=H?-1
+Added Pin To Net: NetName=NetH?_1 Pin=U2-1
+Added Net: Name=NetH?_1
+Added Pin To Net: NetName=NetH?_2 Pin=H?-2
+Added Pin To Net: NetName=NetH?_2 Pin=U1-2
+Added Net: Name=NetH?_2
+Added Member To Class: ClassName=Sheet1 Member=Component H? Header 10P 2.54 Duc Thang

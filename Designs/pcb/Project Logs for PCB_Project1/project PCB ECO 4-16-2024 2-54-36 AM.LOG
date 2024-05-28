@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P1-2
+Removed Pin From Net: NetName=+5 Pin=U1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetP1_2 Pin=U2-1
+Removed Pin From Net: NetName=NetU2_16 Pin=U2-16
+Removed Pin From Net: NetName=+5 Pin=U3-1
+Removed Pin From Net: NetName=NetU2_16 Pin=U3-2
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Added Component: Designator=JP1(JP 1x2 CT)
+Added Component: Designator=JP2(JP 1x2 CT)
+Added Component: Designator=L0(LED-3MM-RED)
+Added Component: Designator=L1(LED-3MM-WHITE)
+Added Component: Designator=L2(LED-3MM-YELLOW)
+Added Component: Designator=L3(LED-3MM-YELLOW)
+Added Component: Designator=L4(LED-3MM-YELLOW)
+Added Component: Designator=L5(LED-3MM-YELLOW)
+Added Component: Designator=LS0(Coi Chip Speacker)
+Added Component: Designator=PR0(Quang Tro)
+Added Component: Designator=R0(tro vach 1w)
+Added Component: Designator=R1(tro vach 1/4w)
+Added Component: Designator=R2(tro vach 1/4w)
+Added Component: Designator=R3(tro vach 1/4w)
+Added Component: Designator=R4(tro vach 1/4w)
+Added Component: Designator=R5(tro vach 1/4w)
+Added Component: Designator=R6(tro vach 1/4w)
+Added Component: Designator=STM32(STM32F103 KIT)
+Added Component: Designator=ZD0(DIP16/W0.3)
+Added Pin To Net: NetName=NetP1_2 Pin=JP1-1
+Added Pin To Net: NetName=+5 Pin=JP1-2
+Added Pin To Net: NetName=NetP1_2 Pin=L0-1
+Added Pin To Net: NetName=NetU2_16 Pin=PR0-1
+Added Pin To Net: NetName=GND Pin=R0-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetU2_16 Pin=R6-2
+Added Pin To Net: NetName=NetP1_1 Pin=STM32-20
+Added Pin To Net: NetName=NetU2_16 Pin=STM32-38
+Added Pin To Net: NetName=GND Pin=STM32-40
+Added Pin To Net: NetName=GND Pin=ZD0-8
+Added Pin To Net: NetName=NetU2_16 Pin=ZD0-9
+Change Net Name : Old Net Name=+5 New Net Name=VSS
+Change Net Name : Old Net Name=NetP1_1 New Net Name=VPOWER
+Change Net Name : Old Net Name=NetP1_2 New Net Name=VIN
+Change Net Name : Old Net Name=NetU2_16 New Net Name=VDD
+Added Pin To Net: NetName=ADC Pin=PR0-2
+Added Pin To Net: NetName=ADC Pin=STM32-26
+Added Net: Name=ADC
+Added Pin To Net: NetName=BUZZ Pin=STM32-25
+Added Pin To Net: NetName=BUZZ Pin=ZD0-1
+Added Net: Name=BUZZ
+Added Pin To Net: NetName=LED1 Pin=STM32-11
+Added Pin To Net: NetName=LED1 Pin=ZD0-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=STM32-12
+Added Pin To Net: NetName=LED2 Pin=ZD0-3
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=STM32-13
+Added Pin To Net: NetName=LED3 Pin=ZD0-4
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=STM32-14
+Added Pin To Net: NetName=LED4 Pin=ZD0-5
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED Pin=L1-1
+Added Pin To Net: NetName=LED Pin=STM32-27
+Added Net: Name=LED
+Added Pin To Net: NetName=NetL0_2 Pin=L0-2
+Added Pin To Net: NetName=NetL0_2 Pin=R0-1
+Added Net: Name=NetL0_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R2-2
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R3-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=R4-2
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=R5-2
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetLS0_1 Pin=LS0-1
+Added Pin To Net: NetName=NetLS0_1 Pin=R6-1
+Added Net: Name=NetLS0_1
+Added Pin To Net: NetName=OUT1 Pin=L2-1
+Added Pin To Net: NetName=OUT1 Pin=LS0-2
+Added Pin To Net: NetName=OUT1 Pin=ZD0-16
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=L3-1
+Added Pin To Net: NetName=OUT2 Pin=ZD0-15
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=L4-1
+Added Pin To Net: NetName=OUT3 Pin=ZD0-14
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=L5-1
+Added Pin To Net: NetName=OUT4 Pin=ZD0-12
+Added Pin To Net: NetName=OUT4 Pin=ZD0-13
+Added Net: Name=OUT4
+Added Pin To Net: NetName=RX Pin=JP2-2
+Added Pin To Net: NetName=RX Pin=STM32-7
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=JP2-1
+Added Pin To Net: NetName=TX Pin=STM32-6
+Added Net: Name=TX
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x2 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 JP 1x2 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component L0 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L1 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L2 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L3 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L4 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component L5 LED 3mm
+Added Member To Class: ClassName=Sheet1 Member=Component LS0 Coi Chip Speaker
+Added Member To Class: ClassName=Sheet1 Member=Component PR0 Quang Tro
+Added Member To Class: ClassName=Sheet1 Member=Component R0 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R1 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R2 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R3 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R4 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R5 330R
+Added Member To Class: ClassName=Sheet1 Member=Component R6 330R
+Added Member To Class: ClassName=Sheet1 Member=Component STM32 KIT STM32F103C8T6
+Added Member To Class: ClassName=Sheet1 Member=Component ZD0 DIP16

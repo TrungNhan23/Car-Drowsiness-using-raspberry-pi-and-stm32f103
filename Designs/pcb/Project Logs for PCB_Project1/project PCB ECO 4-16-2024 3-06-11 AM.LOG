@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=JP 1x2 2.54 Cai Thang New DesignItemId=JP 1x2 2.54 Duc Thang
+Change Component DesignItemId : Designator=R0 Old DesignItemId=Tro Vach 1W 5% 10k New DesignItemId=Tro Vach 1/4W 5% 10k
+Change Component Footprint: Designator=JP1 Old Footprint=JP 1x2 CT New Footprint=JP 1x2 DT
+Change Component Footprint: Designator=R0 Old Footprint=tro vach 1w New Footprint=tro vach 1/4w

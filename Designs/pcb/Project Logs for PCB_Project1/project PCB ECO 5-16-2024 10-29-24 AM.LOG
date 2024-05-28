@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED2 Pin=STM32-12
+Removed Pin From Net: NetName=LED3 Pin=STM32-13
+Added Pin To Net: NetName=LED3 Pin=STM32-12
+Added Pin To Net: NetName=LED2 Pin=STM32-13
